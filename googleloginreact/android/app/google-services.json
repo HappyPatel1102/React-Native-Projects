@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "51348735074",
+    "firebase_url": "https://rnapplogin-7b693.firebaseio.com",
+    "project_id": "rnapplogin-7b693",
+    "storage_bucket": "rnapplogin-7b693.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51348735074:android:d02bf0806f7dcfe68a3d3b",
+        "android_client_info": {
+          "package_name": "com.rnloginappp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51348735074-tjos220e4mq98u1l12ocsohcuioq14ut.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rnloginappp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "51348735074-v0cgcrq6i1b1pbt2vekbvdm5raoe9atd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_O29bEnjBgbAmgRo-dMVVK88D686EjyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51348735074-v0cgcrq6i1b1pbt2vekbvdm5raoe9atd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
